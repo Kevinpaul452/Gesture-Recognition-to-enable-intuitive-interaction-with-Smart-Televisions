@@ -25,11 +25,12 @@ The primary goal of this project is to design and implement a robust deep learni
 
 ## Supported Gestures
 ### Gesture	Action
-👍 Thumbs Up	Increase volume
-👎 Thumbs Down	Decrease volume
-👈 Left Swipe	Rewind 10 seconds
-👉 Right Swipe	Forward 10 seconds
-✋ Stop	Pause playback
+
+ * 👍 Thumbs Up	Increase volume
+ * 👎 Thumbs Down	Decrease volume
+ * 👈 Left Swipe	Rewind 10 seconds
+ * 👉 Right Swipe	Forward 10 seconds
+ * ✋ Stop	Pause playback
 
 ## Research Question
 
@@ -58,14 +59,14 @@ How can a robust and efficient algorithm be developed to accurately detect and c
 
   1. CNN (Convolutional Neural Network)
 
-  * Processes spatial features from individual frames
+   * Processes spatial features from individual frames
 
-  * Simpler architecture with strong baseline performance
+   * Simpler architecture with strong baseline performance
 
   2. CNN + RNN (Hybrid Model)
 
-  * CNN extracts spatial features
+   * CNN extracts spatial features
 
-  * RNN captures temporal dependencies across frames
+   * RNN captures temporal dependencies across frames
 
-  * Designed for sequence-based video classification
+   * Designed for sequence-based video classification
