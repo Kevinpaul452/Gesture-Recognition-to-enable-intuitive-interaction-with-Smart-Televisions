@@ -59,14 +59,14 @@ How can a robust and efficient algorithm be developed to accurately detect and c
 
   1. CNN (Convolutional Neural Network)
 
-   * Processes spatial features from individual frames
+      * Processes spatial features from individual frames
 
-   * Simpler architecture with strong baseline performance
+      * Simpler architecture with strong baseline performance
 
   2. CNN + RNN (Hybrid Model)
 
-   * CNN extracts spatial features
+      * CNN extracts spatial features
 
-   * RNN captures temporal dependencies across frames
+      * RNN captures temporal dependencies across frames
 
-   * Designed for sequence-based video classification
+      * Designed for sequence-based video classification
