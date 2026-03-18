@@ -70,3 +70,9 @@ How can a robust and efficient algorithm be developed to accurately detect and c
       * RNN captures temporal dependencies across frames
 
       * Designed for sequence-based video classification
+
+## Conclusion
+
+* The CNN-based model proved to be the most effective approach for this gesture recognition task, achieving an accuracy of 83%. This suggests that spatial feature extraction alone was sufficient for distinguishing between the defined gestures in this dataset.
+
+* The system demonstrates the feasibility of gesture-based smart TV control and highlights the potential for further improvements in real-time interaction systems
